@@ -9,4 +9,4 @@ MAINTAINER Nick Niu <nick.niu.china@gmail.com>
 RUN mkdir mynewdir
 RUN touch /mynewdir/mynewfile
 # Write the message in file
-RUN echo 'this is my new container to make image and then push to hub'  >/mynewdir/mynewfile
+RUN echo 'this is 2nd  new container to make image and then push to hub'  >/mynewdir/mynewfile
